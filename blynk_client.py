@@ -199,9 +199,9 @@ class Blynk:
 
 # # Example usage
 # if __name__ == "__main__":
-#     WIFI_SSID = "Hali WiFi"
-#     WIFI_PASSWORD = "sitcart49dowdalum81"
-#     BLYNK_TOKEN = "yBV3AKtpZM9WtgvgR6LzidMEhiqHt7nL"
+#     WIFI_SSID = ""
+#     WIFI_PASSWORD = ""
+#     BLYNK_TOKEN = "yBV3AKtpZM9WtEhiqHt7nL"
 # 
 #     blynk = Blynk(BLYNK_TOKEN)
 # 
