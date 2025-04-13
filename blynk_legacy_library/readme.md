@@ -1,8 +1,8 @@
-# Blynk Library for CircuitPython
+# Blynk(Legacy) Library for CircuitPython
 
 [![Version](https://img.shields.io/badge/version-0.2.1-blue)](blynklib_circuitpython.py)
 
-This library provides a client for the [Blynk IoT Platform](https://blynk.io/), specifically adapted for use with [CircuitPython](https://circuitpython.org/). It allows your CircuitPython-powered microcontrollers with network connectivity (like ESP32-S2, ESP32-S3, RP2040 + AirLift, etc.) to connect to Blynk servers (Blynk.Cloud or local servers) and interact with Blynk apps.
+This library provides a client for the [Blynk Legacy Platform](https://blynk.io/), specifically adapted for use with [CircuitPython](https://circuitpython.org/). It allows your CircuitPython-powered microcontrollers with network connectivity (like ESP32-S2, ESP32-S3, RP2040 + AirLift, etc.) to connect to local servers and interact with Blynk apps.
 
 This is an adaptation of MicroPython Blynk libraries, leveraging CircuitPython's native `socketpool` for networking.
 
